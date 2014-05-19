@@ -7,7 +7,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
 
 name: Corey Haines
-url: http://coreyhaines.github.io/stagingblog
+url: http://articles.coreyhaines.com/staging-blog/
 description: Corey's Ramblings
 usernames:
   twitter: coreyhaines
